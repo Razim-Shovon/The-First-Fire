@@ -1,2 +1,4 @@
 # The-First-Fire
-this my first repo on this account.
+This is my first repository on this account.
+<br/>
+Author - Razim Shovon.
